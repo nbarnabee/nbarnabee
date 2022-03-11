@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @nbarnabee
-- 👀 I’m interested in improving my skills, building a portfolio and - in the not too distant future - finding a job.
-- 🌱 I’m currently learning JavaScript, using the resources from freeCodeCamp, the Odin Project, and Leon Noel's 100devs bootcamp
-- 📫 You can find me on Twitter at @NicoleBarnabee
+<h1>Hi 👋 My name is Nicole</h1>
 
-<!---
-nbarnabee/nbarnabee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a <b>Web Developer</b>, learning to code with the help of Leon Noel's 100Devs bootcamp, The Odin Project, and Free Code Camp. 
+
+Currently I'm working with HTML, CSS and vanilla JS, but I'll be branching out into React in the near future, and am trying to pick up a bit of Python and PHP along the way.
+
+🌍  I'm based in Switzerland<br>
+🖥️  See my portfolio at [https://nbarnabee.github.io/portfolio\_site/](http://https://nbarnabee.github.io/portfolio_site/)<br>
+🧠  I'm learning JavaScript<br>
+🤝  I'm open to collaborating on just about anything.<br>
+⚡  I love all sorts of games -- board games, video games, tabletop RPGs, you name it -- and am always happy to chat with fellow enthusiasts.
+
+### Skills
+
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" /></a></p>
+
+
+### Socials
+
+<p align="left">
+<a href="https://www.codepen.io/nbarnabee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/nbarnabee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/nicole-barnabee-burns-417665233/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/@NicoleBarnabee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
