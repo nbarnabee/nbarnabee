@@ -1,12 +1,11 @@
 <h1>Hi 👋 My name is Nicole</h1>
 
-I'm a <b>Web Developer</b>, learning to code with the help of Leon Noel's 100Devs bootcamp, The Odin Project, and Free Code Camp. 
+I'm a <b>Software and Web Developer</b>, learning to code with the help of Leon Noel's 100Devs bootcamp, The Odin Project, and Free Code Camp. 
 
 Currently I'm working with HTML, CSS and vanilla JS, but I'll be branching out into React in the near future, and am trying to pick up a bit of Python and PHP along the way.
 
 🌍  I'm based in Switzerland<br>
-🖥️  See my (very unfinished) portfolio at [https://nbarnabee.github.io/portfolio\_site/](http://https://nbarnabee.github.io/portfolio_site/)<br>
-🧠  I'm learning JavaScript<br>
+🧠  I'm learning HTML, CSS, and JavaScript<br>
 🤝  I'm open to collaborating on just about anything.<br>
 ⚡  I love all sorts of games -- board games, video games, tabletop RPGs, you name it -- and am always happy to chat with fellow enthusiasts.
 
