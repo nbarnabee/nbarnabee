@@ -19,7 +19,7 @@
 <a href="https://dashboard.heroku.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="36" height="36" alt="heroku"/></a>
   </p>
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nbarnabee&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nbarnabee&count_private=true&show_icons=true)](https://github.com/nbarnabee/github-readme-stats)
 
 
 ### Socials
