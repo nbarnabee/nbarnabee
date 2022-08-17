@@ -20,7 +20,7 @@
   </p>
   
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=nbarnabee&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nbarnabee&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nbarnabee&hide_border=true)](https://git.io/streak-stats) -->
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbarnabee&count_private=false&hide_border=true&exclude_repo=JavaScript30,beginner-javascript)](https://github.com/anuraghazra/github-readme-stats) I don't know why this is showing such a high % for HTML but it is irritating me so it must be eliminated -->
 
 
