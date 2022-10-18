@@ -26,8 +26,8 @@
 <a href="https://www.twitter.com/@NicoleBarnabee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="twitter icon" title="@NicoleBarnabee"/></a>
 
 
-### GitHub Stats
-  
- [![](https://github-readme-stats.vercel.app/api?username=nbarnabee&count_private=true&show_icons=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### GitHub Stats -->
+<!-- these are all a bit cheesy and somewhat unreliable -->  
+<!-- [![](https://github-readme-stats.vercel.app/api?username=nbarnabee&count_private=true&show_icons=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nbarnabee&hide_border=true)](https://git.io/streak-stats) -->
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbarnabee&count_private=false&hide_border=true&exclude_repo=JavaScript30,beginner-javascript)](https://github.com/anuraghazra/github-readme-stats) I don't know why this is showing such a high % for HTML but it is irritating me so it must be eliminated -->
