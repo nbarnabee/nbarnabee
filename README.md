@@ -6,6 +6,7 @@
 🎲 I love all sorts of games: board games, video games, tabletop RPGs, you name it.<br>
 🤝 I'm open to collaboration.  Get in touch!
 
+<!-- the formatting on these icons has gone completely wrong and I don't have time to fix it.  nobody care about this stuff anyway
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -30,6 +31,8 @@
 
 <a href="https://www.linkedin.com/in/nicole-barnabee/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="linkedin icon" title="Nicole Barnabee"/></a>
 <a href="https://www.twitter.com/@NicoleBarnabee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="twitter icon" title="@NicoleBarnabee"/></a>
+
+-->
 
 
 <!-- ### GitHub Stats -->
