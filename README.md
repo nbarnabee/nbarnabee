@@ -1,42 +1,13 @@
-<h1>Hi 👋 My name is Nicole.<br>  I'm a <b>Software and Web Developer</b></h1>
+<h1>Hi 👋 My name is Nicole.<br>  I'm a <b>Web Developer</b>!</h1>
 
-### 👩‍💻 A little about me:
+### Professionally...
 
-🏔️ I'm based in Switzerland<br>
+<p>I work at [fruitcake](https://fruitcake.ch) - a Design, Branding and Marketing Agency located near Bern, Switzerland, where I cover the bulk of our website development work.  I'm handed designs and run with them all the way to deployment, and handle maintenance and updates afterwards.  I'm working on a portfolio site (aren't we all), but you can find examples of my work on the agency's [cases page](https://fruitcake.ch/cases)</p>
+
+<p>:love_letter: [ProcessWire](https://www.processwire.com) is our CMS of choice (though we also work with WordPress).  I'm a huge fan; it might not be very well known, but it's lightweight, easy to work with, and extremely versatile.</p>
+
+### Personally...
+
+🏔️ I'm based in Switzerland, but I'm actually American.<br>
 🎲 I love all sorts of games: board games, video games, tabletop RPGs, you name it.<br>
 🤝 I'm open to collaboration.  Get in touch!
-
-<!-- the formatting on these icons has gone completely wrong and I don't have time to fix it.  nobody care about this stuff anyway
-### 🛠️ Languages and Tools
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite.js" title="Vite.js" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express" /></a>
-  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" title="Flask" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
-</p>
-
-
-### Socials
-
-<a href="https://www.linkedin.com/in/nicole-barnabee/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="linkedin icon" title="Nicole Barnabee"/></a>
-<a href="https://www.twitter.com/@NicoleBarnabee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="twitter icon" title="@NicoleBarnabee"/></a>
-
--->
-
-
-<!-- ### GitHub Stats -->
-<!-- these are all a bit cheesy and somewhat unreliable -->  
-<!-- [![](https://github-readme-stats.vercel.app/api?username=nbarnabee&count_private=true&show_icons=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nbarnabee&hide_border=true)](https://git.io/streak-stats) -->
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbarnabee&count_private=false&hide_border=true&exclude_repo=JavaScript30,beginner-javascript)](https://github.com/anuraghazra/github-readme-stats) I don't know why this is showing such a high % for HTML but it is irritating me so it must be eliminated -->
